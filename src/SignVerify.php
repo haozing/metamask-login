@@ -1,6 +1,6 @@
 <?php
 
-namespace zkoka;
+namespace haozi;
 
 use Elliptic\EC;
 use kornrunner\Keccak;
